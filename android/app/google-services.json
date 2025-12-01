@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199715081014",
+    "project_id": "loginregister-5aed0",
+    "storage_bucket": "loginregister-5aed0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199715081014:android:b3b8d48ed00e497f298197",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOlJgET6yj93YEvHQ983_gQvvzX1iTAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
